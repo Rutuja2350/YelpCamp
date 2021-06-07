@@ -1,0 +1,55 @@
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail{
+    background-color: #bdc3c7;
+    height: 100%;
+}
+
+.thumbnail .caption-full{
+    padding: 9px;
+}
+
+#delete-form{
+    display: inline;
+}
+
+.delete-form{
+    display: inline;
+}
+
+.form-heading{
+    color: white;
+}
+
+.checked {
+    color: orange;
+}
+
+/* ******* */
+ body{
+    background: #485563;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #29323c, #485563); 
+}
+
+ .jumbotron{
+    background-color: #D4D3DD;   
+}
+
+.bottom-space{
+    padding-bottom: 3rem;
+}
+
+.navbar{
+    background-color: #bdc3c7;  
+}
+
+.well{
+    background-color: #D7DDE8;
+}
+
+.footer{
+    padding-top: 2.0rem;
+}
